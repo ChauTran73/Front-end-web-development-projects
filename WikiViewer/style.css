@@ -1,0 +1,14 @@
+body{
+  background-color: lightgray;
+}
+h1{
+  margin: 2%;
+}
+div{
+  padding: 20px;
+}
+#result-page{
+  padding: 20px;
+  font-size: 110%;
+  font-family: helvetica;
+}
