@@ -1,0 +1,32 @@
+.boxed {
+  cursor: pointer;
+  width: 50%;
+  height: auto;
+   border: 5px solid black;
+   padding: 25px;
+  margin: 20px auto;
+  background-color: lightblue;
+  overflow: hidden;
+}
+#tweetQuote{
+  padding : 20px auto;
+  text-align: center;
+ 
+}
+
+body {
+  background: black;
+  animation: color-me-in 5s infinite; 
+}
+
+@keyframes color-me-in {
+  0% {
+    background: orange;
+  }
+  50% {
+    background: purple;
+  }
+  100%{
+    background: teal;
+  }
+}
