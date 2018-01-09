@@ -1,0 +1,16 @@
+body{
+  background-image: url("https://s25.postimg.org/cm2vtk1z3/clouds-100678070-primary.idge.jpg");
+  background-color: coral;
+  background-size:cover;
+  font-family: fantasy;
+}
+
+h2{
+  color: black;
+}
+#icon {
+ position: relative;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -10%)
+}
